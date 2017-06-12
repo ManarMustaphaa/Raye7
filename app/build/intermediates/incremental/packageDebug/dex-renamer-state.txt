@@ -1,0 +1,7 @@
+#Mon Jun 12 20:46:52 EET 2017
+base.0=E\:\\Raye7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1512bd8186cfd7f4e3f6845de532bed3f0d2589
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Raye7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_024d5a2dab49664ccabcda991e9fee1006a54e15\\classes.dex
+base.1=E\:\\Raye7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_024d5a2dab49664ccabcda991e9fee1006a54e15
+file.0=E\:\\Raye7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b1512bd8186cfd7f4e3f6845de532bed3f0d2589\\classes.dex
